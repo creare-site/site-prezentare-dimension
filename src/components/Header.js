@@ -8,23 +8,25 @@ const Header = (props) => (
         </div>
         <div className="content">
             <div className="inner">
-                <h1>GatsbyJS Web App</h1> 
-                <p>Dimension - React / GatsbyJS Web App</p> 
+                <h1>Creare Site</h1> 
                 <p>
-                <a href="https://appseed.us/apps/gatsbyjs/html5up-dimension">Get Code</a> {' '}
+                Site Prezentare Dimension. <a href="https://websitemarket.ro/?ref=dimension">Comanda Site</a>
+                </p> 
+                <p>
+                 {' '}
                 </p>
-                FEATURES:
+                Informatii produs:
                 <p>
-                Sitemap generator, FTP deploy Script, Free Email <a href="https://appseed.us/support">support</a>
+                Site de prezentare simplu si rapid, construit pe tehnologii moderne.
                 </p>
             </div>
         </div>
         <nav>
             <ul>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about-gatsbyjs')}}>GatsbyJS</a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('appseed-app-generator')}}>AppSeed</a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('resources')}}>Resources</a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('support')}}>Support</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about-gatsbyjs')}}>WebsiteMarket</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('appseed-app-generator')}}>Companie</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('resources')}}>Resurse</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('support')}}>Suport</a></li>
             </ul>
         </nav>
     </header>

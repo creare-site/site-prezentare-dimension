@@ -39,10 +39,10 @@ const Layout = ({ children, location }) => {
       render={data => (
         <>
           <Helmet
-            title="Dimension - GatsbyJS Web App. Coded by @AppSeed"
+            title="Creare Site - Dimension | WebsiteMarket"
             meta={[
-              { name: 'description', content: 'React / GatsbyJS web app, crafted by HTML5 Up, enhanced by AppSeed.' },
-              { name: 'keywords', content: 'gatsbyjs, react, html5up, dimension, appseed' },
+              { name: 'description', content: 'Site de prezentare simplu si rapid, construit pe tehnologii moderne. Un produs WebsiteMarket.' },
+              { name: 'keywords', content: 'gatsbyjs, site, prezentare, websitemarket' },
             ]}
           >
             <html lang="en" />

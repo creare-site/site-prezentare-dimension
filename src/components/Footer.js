@@ -3,13 +3,13 @@ import PropTypes from 'prop-types'
 
 const Footer = (props) => (
     <footer id="footer" style={props.timeout ? {display: 'none'} : {}}>
-        <p className="copyright">&copy; React Theme - Dimension. Design: <a href="https://html5up.net">HTML5 UP</a>. 
+        <p className="copyright">&copy; <a href="https://websitemarket.ro">WebsiteMarket</a>. 
             <br />
-            <a target="_blank" rel="noopener noreferrer" href="https://appseed.us">
+            <a href="https://websitemarket.ro">
                 <span className="icon fa-rocket fa-2x"></span>
             </a> 
             {'     '} 
-            <a target="_blank" rel="noopener noreferrer" href="https://blog.appseed.us/tag/gatsbyjs/">
+            <a href="https://blog.websitemarket.ro">
                 <span className="icon fa-rss-square fa-2x"></span>
             </a> 
         </p>

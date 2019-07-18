@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "React / GatsbyJS Web App Dimension. Coded by @AppSeed",
-    author: "Original author Hunter Chang. Enhanced by AppSeed",
-    description: "Dimension design by HTML5 UP, Coded by AppSeed",
-    siteUrl: `https://jamstack-gatsbyjs-dimension.appseed.us`
+    title: "Site de prezentare Dimension - WebsiteMarket",
+    author: "WebsiteMarket.ro",
+    description: "Site de prezentare construit in GatsbyJS. Un produs WebsiteMarket.",
+    siteUrl: `https://site-prezentare-dimension.websitemarket.ro/`
   },
   plugins: [
     'gatsby-plugin-react-helmet',
