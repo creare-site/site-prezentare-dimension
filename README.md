@@ -1,35 +1,46 @@
-# [GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
+# [Dimension](https://site-prezentare-dimension.websitemarket.ro/) - Site Prezentare
 
-GatsbyJS Dimension is an open-source app built with GatsbyJS on top of HTML5Up Dimension design.
-
-<br />
-
-![GatsbyJS Dimension - Gif animated presentation.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-apps-intro.gif?raw=true)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-## How to use it
-- Clone this repo `git clone https://github.com/app-generator/gatsbyjs-dimension.git`
-- change directory to `gatsbyjs-dimension`
-- `yarn` - install deps
-- `yarn dev` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+![site dimension](https://raw.githubusercontent.com/creare-site/static/master/produse/site-prezentare-dimension.jpg)
 
 <br />
 
-## Support
-
-For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
-
-<br />
-
-## Resources
+## Informatii produs
+---
+ - Site de prezentare - Dimension
+ - Live [DEMO](https://site-prezentare-dimension.websitemarket.ro/)
  
- - [GatsbyJS](https://www.gatsbyjs.org/)
- - More [GatsbyJS starters](https://github.com/app-generator/gatsbyjs)
+<br />
+
+## Licenta
+
+ - Acest produs este protejat de drepturi de autor
+ - Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
+
+<br />
+
+## Utilizare (pentru dezvoltatori)
+
+Acesta website este o aplicatie JAMstack, dezvoltata in [React](https://reactjs.org/) / [GatsbyJS](https://www.gatsbyjs.org/)
+
+```
+$ git clone https://github.com/creare-site/site-prezentare-dimension.git
+$ cd site-prezentare-dimension
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
+
+<br />
+
+## Suport
+
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-Provided by [AppSeed](https://appseed.us/apps/gatsbyjs)
+Site Prezentare - [Dimension](https://site-prezentare-dimension.websitemarket.ro/) un produs **WebsiteMarket**
